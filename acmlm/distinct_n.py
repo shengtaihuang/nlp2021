@@ -10,9 +10,9 @@ parser.add_argument("--gold",
                     help="The gold corpus.")
 
 parser.add_argument("--pred",
-                    default='metrics/tst-raw.txt',
+                    default='metrics/tst-clean.txt',
                     type=str,
-                    help="The gold corpus.")
+                    help="The predicted corpus.")
 
 args = parser.parse_args()
 
