@@ -1,10 +1,11 @@
 import argparse
+import re
 
 parser = argparse.ArgumentParser()
 
 ## Required parameters
 parser.add_argument("--raw",
-                    default='metrics/rsr-raw.txt',
+                    default='metrics/ref-raw.txt',
                     type=str,
                     help="The raw corpus.")
 
