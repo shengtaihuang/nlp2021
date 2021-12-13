@@ -49,8 +49,8 @@ sents = []
 
 with open(gold_file, 'r') as g, open(pred_file, 'r') as p:
     for gl, pl in zip(g, p):
-        gold_tokens = gl.strip(" ")
-        pred_tokens = pl.strip(" ")
+        gold_tokens = gl.split(" ")
+        pred_tokens = pl.split(" ")
         sents.append([pred_tokens, gold_tokens])
 
 distinct1 = calc_distinct_ngram(pair_list=sents, ngram=1)
