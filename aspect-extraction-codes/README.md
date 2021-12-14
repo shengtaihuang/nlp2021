@@ -1,7 +1,7 @@
 The toolkit can be obtained from https://github.com/evison/Sentires  and  https://github.com/lileipisces/Sentires-Guide 
 
 
-1. Make sure that your machine has Java Runtime Environment installed by running `java -version`. If it is installed, it will tell the version of the java, otherwise, it will say ”Java command not found” and you have to install it first from http://www.java.com/en/download/manual.jsp. 
+1. Make sure that your machine has Java Runtime Environment installed by running `java -version`. If it is installed, it will tell the version of the java, otherwise, it will say ”Java command not found” and you have to install it first from http://www.java.com/en/download/manual.jsp. In our case we used version 11.0.11. 
 2. The codes in this repository are already the product of the steps following the setup guidance from https://github.com/lileipisces/Sentires-Guide so you can directly use it. If you want to get it from the scratch instead, you can do the following steps:
 - Download and extract the tool from https://drive.google.com/file/d/1RMYPsnxNEUPAH8YQ2iyVRHkVKBek0A0z/view?usp=sharing 
 - Download the tool helper from https://github.com/lileipisces/Sentires-Guide  and put the lei folder and the `run.sh` inside the `English-Jar` folder. You can do this command in your terminal (make sure the working directory is in the English-Jar folder): git clone https://github.com/lileipisces/Sentires-Guide 
