@@ -1,0 +1,30 @@
+Context: A2HOXL7H84SCY6	B004UTQRHW	4
+Ground-truth aspect: canon quality quality
+Predicted aspects: product product product
+Context: AU4HCPNI9LJ0U	B005VAONLQ	4
+Ground-truth aspect: cables cables cables
+Predicted aspects: price product product product
+Context: A2P3V1BG6FMUS5	B000AJIF4E	5
+Ground-truth aspect: cord sound pair
+Predicted aspects: price camera quality quality
+Context: AZBHHMMA9G4L2	B00C2JCXHU	4
+Ground-truth aspect: pen quality
+Predicted aspects: price product product
+Context: A3OSUAAXSUNPLM	B000NK8EWI	5
+Ground-truth aspect: resolution buy camera
+Predicted aspects: price product product
+Context: AV111BU36Q2FW	B002NEG0VO	5
+Ground-truth aspect: laptop port speakers speaker size
+Predicted aspects: price price quality quality
+Context: A38RMU1Y5TDP9	B00009XW5J	3
+Ground-truth aspect: lighting cost
+Predicted aspects: sound sound sound sound sound sound sound
+Context: A3A18ELO01FE5R	B00FRBPK5W	5
+Ground-truth aspect: fits color
+Predicted aspects: sound sound sound sound sound
+Context: A2P8536TV2X0HV	B00F96JG78	2
+Ground-truth aspect: tablet screen
+Predicted aspects: price price sound sound sound
+Context: A2MPQHYMT258ZV	B000GVTX6U	4
+Ground-truth aspect: router setup setup router
+Predicted aspects: price price sound
