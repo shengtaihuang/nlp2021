@@ -2,4 +2,4 @@
 NLP Project for Fall 2021 \
 Sheng-Tai Huang, Nefriana R., Yongsu Ahn
 
-### Title: Towards generating informative and controllable review generation towards explainees’ perception in recommendations
+#### Towards generating informative and controllable review generation towards explainees’ perception in recommendations
